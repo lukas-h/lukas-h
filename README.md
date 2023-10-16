@@ -4,7 +4,7 @@
 - CEO at [ScaLabs](https://github.com/scalabs), where we offer sophisticated geodata-based software.
 
 ### Off work
-- Our Dart & Flutter packages at [Dartclub](https://github.com/dartclub)
+- [Dartclub](https://github.com/dartclub), where we have our Dart & Flutter packages
 - [GDG Nuremberg](https://gdg.nu), a technology meetup group 
 - [Code for Nuremberg](https://codefor.de/nuernberg) an open-data initiative
 
