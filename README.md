@@ -1,6 +1,6 @@
 ### At work
-- CEO at [Konnex](https://konnex-bi.com), where we build software for automotive & manufacturing companies.
-- CEO at [ScaLabs](https://github.com/scalabs), where we offer sophisticated geodata-based software.
+- Software developer at Konnex, where we build software for automotive & manufacturing companies.
+- Software developer at ScaLabs, where we offer sophisticated geodata-based software.
 
 ### Off work
 - [Dartclub](https://github.com/dartclub), where we have our Dart & Flutter packages
