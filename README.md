@@ -1,4 +1,4 @@
-Software Developer – Flutter Expert – [LinkedIn](https://www.linkedin.com/in/lukas-himsel-lucrid)
+Software Developer – Flutter Expert – Founder – [LinkedIn](https://www.linkedin.com/in/lukas-himsel-lucrid)
 
 🌐 [scalabs.de](https://scalabs.de) – Geodata Experts for Dart and Flutter
 
